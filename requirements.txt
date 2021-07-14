@@ -1,0 +1,2 @@
+flask-restx==0.4.0
+python-dateutil==2.6.0
